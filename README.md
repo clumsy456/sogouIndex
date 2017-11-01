@@ -1,5 +1,5 @@
 # sogouIndex
-## introduction
+## Introduction
 Export the raw data of [sogouIndex](http://zhishu.sogou.com). In [sogouIndex.py](/sogouIndex.py/), the keyword can be set by *keyword*, the date range of one year, one month and one week can be set by *time*, and the searchType of all, PC, wap, and wechat can be set by *searchType*. Data are exported to an excel file, where data of the selected date range and whole data are exported to two sheets respectively. Two columns represent the popularity and date.
 
 ## 介绍
